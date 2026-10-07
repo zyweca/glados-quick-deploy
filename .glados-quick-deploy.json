@@ -1,0 +1,8 @@
+{
+  "appId": "glados-quick-deploy",
+  "schemaVersion": 1,
+  "repositoryId": 1409129716,
+  "createdAt": "2026-10-07T17:14:30.775Z",
+  "upstreamRepository": "lankerr/2026-glados-checkin",
+  "upstreamSHA": "b4ed1f9abeba4ef6244c0e7fd99333970b81d341"
+}
